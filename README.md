@@ -7,6 +7,7 @@
 [![License][license-image]][license-url]
 [![NPM version][npm-image]][npm-url]
 [![NPM downloads][downloads-image]][downloads-url]
+[![jsDelivr Hits][jsdelivr-badge]][jsdelivr-url]
 
 - 3.3KB minified and Gzipped
 - No dependencies
@@ -410,3 +411,5 @@ ScrollReveal was inspired by the talented [Manoela Ilic](https://twitter.com/crn
 [npm-url]: https://npmjs.org/package/scrollreveal
 [downloads-image]: https://img.shields.io/npm/dm/scrollreveal.svg?style=flat
 [downloads-url]: https://npmjs.org/package/scrollreveal
+[jsdelivr-badge]: https://data.jsdelivr.com/v1/package/npm/scrollreveal/badge?style=rounded
+[jsdelivr-url]: https://www.jsdelivr.com/package/npm/scrollreveal
